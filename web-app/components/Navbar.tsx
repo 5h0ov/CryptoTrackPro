@@ -39,6 +39,10 @@ export function Navbar() {
             <span className="sr-only">Toggle theme</span>
           </Button>
           
+
+          <Link href="" className="">
+            Docs
+          </Link>
           {user ? (
             <>
               <Link href="/dashboard" className="hidden md:block">

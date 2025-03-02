@@ -10,16 +10,15 @@ const config: Config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://crypto-track-pro.vercel.app',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
-
+  baseUrl: '/CryptoTrackPro/',
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: '5h0ov', // Usually your GitHub org/user name.
-  projectName: 'crypto-tracker', // Usually your repo name.
-
+  projectName: 'CryptoTrackPro', // Usually your repo name.
+  trailingSlash: false, // for better GitHub Pages compatibility
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
@@ -64,12 +63,12 @@ const config: Config = {
           label: 'Documentation',
         },
         {
-          href: 'https://shattereddisk.github.io/rickroll/rickroll.mp4',
+          href: 'https://github.com/5h0ov/CryptoTrackPro',
           label: 'GitHub',
           position: 'right',
         },
         {
-          href: 'https://shattereddisk.github.io/rickroll/rickroll.mp4',
+          href: 'https://crypto-track-pro.vercel.app',
           label: 'Website',
           position: 'right',
         }
