@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcrypto_tracker=self.webpackChunkcrypto_tracker||[]).push([[9956],{6582:t=>{t.exports=JSON.parse('{"metadata":{"permalink":"/CryptoTrackPro/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

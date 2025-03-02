@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcrypto_tracker=self.webpackChunkcrypto_tracker||[]).push([[1903],{1912:r=>{r.exports=JSON.parse('{"blogBasePath":"/CryptoTrackPro/blog","blogTitle":"Blog","authorsListPath":"/CryptoTrackPro/blog/authors"}')}}]);
