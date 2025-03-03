@@ -156,11 +156,11 @@ export default function Dashboard() {
             <div className="flex items-center gap-3 text-sm text-muted-foreground">
               <div className="flex items-center gap-1">
                 <div className="h-3 w-3 rounded-full bg-green-500"></div>
-                <span>Price Decreases</span>
+                <span>Price Increases</span>
               </div>
               <div className="flex items-center gap-1">
                 <div className="h-3 w-3 rounded-full bg-red-500"></div>
-                <span>Price Increases</span>
+                <span>Price Decreases</span>
               </div>
             </div>
           </div>
