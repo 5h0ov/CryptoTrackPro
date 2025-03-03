@@ -1,3 +1,8 @@
+# Deployed Links
+- Web-App: https://crypto-track-pro.vercel.app/
+- Documentation: https://5h0ov.github.io/CryptoTrackPro/
+
+
 # Installation & Setup
 
 This guide will walk you through how to set up and run both the web and mobile applications of CryptoTrackPro.
