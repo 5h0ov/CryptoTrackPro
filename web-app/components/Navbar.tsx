@@ -40,7 +40,7 @@ export function Navbar() {
           </Button>
           
 
-          <Link href="https://5h0ov.github.io/CryptoTrackPro/" className="">
+          <Link href="https://5h0ov.github.io/CryptoTrackPro/docs/intro" className="">
             Docs
           </Link>
           {user ? (
